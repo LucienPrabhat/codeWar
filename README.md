@@ -1,2 +1,2 @@
-# codeWar
-codeWar solutions
+# codeWars
+solutions of codewars
